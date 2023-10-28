@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erhan. I am an IT Passionate. I love my family, coding, walking in the 🌿 nature, talking with fellows😄, watching science || fantasy movies and travelling.
-- 👀 I’m interested in CODING, LEGO TECHNIC AND MINDSTORMS, SCIENCE, BLOKCHAIN AND DLTies, CRYPTO CURRENCIES AND DIGITAL ECONOMIES.
+- 👀 I’m interested in coding, LEGO Technic and Mindstorms, science, blockchain and DLTies.
 - 🌱 I’m currently learning WEB DEVELOPMENT
 - 📫 You can reach me here: erhan.16k@gmail.com
 
