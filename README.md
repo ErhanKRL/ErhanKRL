@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Erhan. I am an IT Passionate. I love my family, coding, walking | biking in the 🌿 nature, talking with fellows😄, watching science & fantastic movies and travelling.
-- 👀 I’m interested in coding, LEGO Technic and Mindstorms, science, blockchain and DLTies.
-- 🌱 I’m a WEB DEVELOPMENT enthusiast!
+- 👋 Hi, I’m Erhan. I am an IT Passionate. I love my family, coding, walking | biking in the 🌿 nature, talking with fellows😄, watching sci-fi & fantastic movies and travelling.
+- 👀 I’m interested in coding, LEGO Technic and Mindstorms, science and Formula-1.
+- Big fan of Hamilton (Hamido) 🏎️
+- 🌱 WEB DEVELOPMENT enthusiast!
+- Professional Dreamer 🤓
 - 📫 You can reach me here: erhan.16k@gmail.com
 
 <!---
